@@ -88,7 +88,9 @@ public class TestcustomerApplication {
 					break;
 		}
 		
-		System.out.println("i am adding this line for to check  auto triggering in jenkin");
+		System.out.println("i am adding this line for to check  auto triggering in jenkin");//success
+			// while i am doing build 2 my vm got struck so for that interuppion my build 2 failed
+			
 		
 		
 		
