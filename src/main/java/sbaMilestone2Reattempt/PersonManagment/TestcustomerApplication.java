@@ -88,7 +88,7 @@ public class TestcustomerApplication {
 					break;
 		}
 		
-		System.out.println("checking for  auto triggering in jenkin")
+		System.out.println("i am adding this line for to check  auto triggering in jenkin");
 		
 		
 		
